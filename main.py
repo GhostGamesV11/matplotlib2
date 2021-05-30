@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+#zad 1
 fig=plt.figure()
 ax=fig.gca(projection='3d')
 t=np.linspace(0,2*np.pi,100)
